@@ -1,2 +1,2 @@
 # shooby-d.github.io
-personal site
+my personal site
